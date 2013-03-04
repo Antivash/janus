@@ -197,3 +197,30 @@
 [submodule "janus/vim/tools/repeat"]
 	path = janus/vim/tools/repeat
 	url = https://github.com/tpope/vim-repeat.git
+[submodule "janus/vim/colors/atom"]
+	path = janus/vim/colors/atom
+	url = https://github.com/zaiste/Atom.git
+[submodule "janus/vim/colors/flazz"]
+	path = janus/vim/colors/flazz
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "janus/vim/colors/fingerpaint"]
+	path = janus/vim/colors/fingerpaint
+	url = https://github.com/ecarter/fingerpaint.vim.git
+[submodule "janus/vim/colors/hybrid"]
+	path = janus/vim/colors/hybrid
+	url = https://github.com/w0ng/vim-hybrid.git
+[submodule "janus/vim/colors/vitamins"]
+	path = janus/vim/colors/vitamins
+	url = https://github.com/fmoralesc/vim-vitamins.git
+[submodule "janus/vim/colors/caravaggio"]
+	path = janus/vim/colors/caravaggio
+	url = https://github.com/fmoralesc/vim-caravaggio.git
+[submodule "janus/vim/colors/aldmeris"]
+	path = janus/vim/colors/aldmeris
+	url = https://github.com/veloce/vim-aldmeris.git
+[submodule "janus/vim/colors/tomorrow-night"]
+	path = janus/vim/colors/tomorrow-night
+	url = https://github.com/ootoovak/vim-tomorrow-night.git
+[submodule "janus/vim/colors/diablo3"]
+	path = janus/vim/colors/diablo3
+	url = https://github.com/vim-scripts/Diablo3.git
