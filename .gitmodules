@@ -224,3 +224,6 @@
 [submodule "janus/vim/colors/diablo3"]
 	path = janus/vim/colors/diablo3
 	url = https://github.com/vim-scripts/Diablo3.git
+[submodule "janus/vim/colors/mgutz"]
+	path = janus/vim/colors/mgutz
+	url = git://github.com/mgutz/vim-colors.git
