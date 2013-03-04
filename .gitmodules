@@ -227,3 +227,6 @@
 [submodule "janus/vim/colors/mgutz"]
 	path = janus/vim/colors/mgutz
 	url = git://github.com/mgutz/vim-colors.git
+[submodule "janus/vim/tools/numbers.vim"]
+	path = janus/vim/tools/numbers.vim
+	url = git://github.com/myusuf3/numbers.vim.git
